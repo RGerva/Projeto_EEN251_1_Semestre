@@ -6,5 +6,5 @@ Caio Petrelli Cominato  git user: ghhwer        R.A.:17.00100-5
 
 1ª idéia - Drone de Carga
 2ª idéia - skate de carga/robô de carga
-3ª idéia - 
+3ª idéia - garrafa térmica com sensor de temperatura, bluetooth e motor para misturar bebida linkado ao celular.
 4ª idéia - 
